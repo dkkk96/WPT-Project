@@ -1,0 +1,11 @@
+/* styles.css */
+.nav-links-wrapper {
+    display: flex;
+    gap: 10px; /* Adjust the gap as needed */
+  }
+  
+  .nav-link {
+    text-decoration: none;
+    color: white;
+  }
+  
